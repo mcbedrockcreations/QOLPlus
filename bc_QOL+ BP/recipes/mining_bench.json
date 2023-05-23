@@ -1,0 +1,29 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "bc:mining_bench"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"12",
+			"##"
+		],
+		"key": {
+			"1": {
+				"item": "minecraft:iron_pickaxe"
+			},
+			"2": {
+				"item": "minecraft:raw_iron"
+			},
+			"#": {
+				"item": "minecraft:stone"
+			}
+		},
+		"result": {
+			"item": "bc:mining_bench"
+		}
+	}
+}

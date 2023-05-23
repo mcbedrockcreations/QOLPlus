@@ -1,0 +1,20 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "bc:dead_bush"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:sapling",
+				"data": 0
+			}
+		],
+		"result": {
+			"item": "minecraft:deadbush"
+		}
+	}
+}

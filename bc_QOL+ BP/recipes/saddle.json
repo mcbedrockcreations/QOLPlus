@@ -1,0 +1,30 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "bc:saddle"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"###",
+			" 1 ",
+			" 2 "
+		],
+		"key": {
+			"1": {
+				"item": "minecraft:string"
+			},
+			"2": {
+				"item": "minecraft:iron_nugget"
+			},
+			"#": {
+				"item": "minecraft:leather"
+			}
+		},
+		"result": {
+			"item": "minecraft:saddle"
+		}
+	}
+}

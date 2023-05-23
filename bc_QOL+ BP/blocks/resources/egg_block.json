@@ -1,0 +1,30 @@
+{
+	"format_version": "1.19.40",
+	"minecraft:block": {
+		"description": {
+			"identifier": "bc:egg_block",
+			"menu_category": {
+				"category": "nature",
+				"group": "itemGroup.name.ore"
+			}
+		},
+		"components": {
+			"minecraft:geometry": "geometry.block",
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "egg_block",
+					"render_method": "opaque"
+				}
+			},
+			"minecraft:destructible_by_mining": {
+				"seconds_to_destroy": 2
+			},
+			"minecraft:map_color": "#DBE600",
+			"minecraft:destructible_by_explosion": {
+				"explosion_resistance": 3
+			},
+			"minecraft:loot": "loot_tables/blocks/egg_block.json",
+			"tag:iron_pick_diggable": {}
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "bc:furnace_leather"
+		},
+		"tags": [
+			"furnace"
+		],
+		"input": "minecraft:rotten_flesh",
+		"output": "minecraft:leather"
+	}
+}

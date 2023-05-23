@@ -1,0 +1,27 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "bc:decayed_workbench"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"11",
+			"##",
+			"##"
+		],
+		"key": {
+			"1": {
+				"item": "minecraft:nether_brick"
+			},
+			"#": {
+				"item": "minecraft:warped_planks"
+			}
+		},
+		"result": {
+			"item": "bc:decayed_workbench"
+		}
+	}
+}

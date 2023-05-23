@@ -1,0 +1,30 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "bc:mob_spawner"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"#1#",
+			"#2#",
+			"###"
+		],
+		"key": {
+			"1": {
+				"item": "minecraft:ghast_tear"
+			},
+			"2": {
+				"item": "minecraft:ender_eye"
+			},
+			"#": {
+				"item": "minecraft:iron_bars"
+			}
+		},
+		"result": {
+			"item": "minecraft:mob_spawner"
+		}
+	}
+}

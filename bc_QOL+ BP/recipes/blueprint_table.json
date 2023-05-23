@@ -1,0 +1,31 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "bc:blueprint_table"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"12",
+			"##",
+			"##"
+		],
+		"key": {
+			"1": {
+				"item": "minecraft:paper"
+			},
+			"2": {
+				"item": "minecraft:dye",
+				"data": 18
+			},
+			"#": {
+				"tag": "minecraft:planks"
+			}
+		},
+		"result": {
+			"item": "bc:blueprint_table"
+		}
+	}
+}

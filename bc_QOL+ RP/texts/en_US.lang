@@ -1,0 +1,32 @@
+pack.name=QOL+ RP
+pack.description=Created by Bedrock Creations
+
+## New ore
+tile.bc:egg_block.name=Egg Ore
+
+## New blocks
+tile.bc:blueprint_table.name=Blueprint Table
+tile.bc:decayed_workbench.name=Decayed Workbench
+tile.bc:gardening_table.name=Gardening Table
+tile.bc:hunting_post.name=Hunting Post
+tile.bc:mining_bench.name=Mining Bench
+tile.bc:oceanography_table.name=Oceanography Table
+tile.bc:purpur_altar.name=Purpur Altar
+tile.bc:woodworking_table.name=Woodworking Table
+tile.bc:crate.name=Crate
+
+## New items
+item.bc:cobble_compressed.name=Compressed cobblestone
+item.bc:deepslate_compressed.name=Compressed cobbled deepslate
+item.bc:dirt_compressed.name=Compressed dirt
+item.bc:gravel_compressed.name=Compressed gravel
+
+## New trader names
+entity.bc:engineer.name=Engineer
+entity.bc:netherian.name=Netherologist
+entity.bc:florist.name=Florist
+entity.bc:hunter.name=Hunter
+entity.bc:miner.name=Miner
+entity.bc:oceanographer.name=Oceanographer
+entity.bc:enderian.name=Enderologist
+entity.bc:woodworker.name=Forester

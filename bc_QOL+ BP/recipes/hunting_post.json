@@ -1,0 +1,29 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "bc:hunting_post"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"12",
+			"##"
+		],
+		"key": {
+			"1": {
+				"item": "minecraft:leather"
+			},
+			"2": {
+				"item": "minecraft:arrow:0"
+			},
+			"#": {
+				"tag": "minecraft:logs"
+			}
+		},
+		"result": {
+			"item": "bc:hunting_post"
+		}
+	}
+}

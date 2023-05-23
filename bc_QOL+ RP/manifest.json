@@ -1,0 +1,39 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "QOL+ [RP]",
+		"description": "A Quality of Life addon featuring different wandering traders and better trades. Some vanilla recipes are also balanced, along with the addition of new recipes and blocks. Created by §lBedrock Creations§r.",
+		"min_engine_version": [
+			1,
+			19,
+			50
+		],
+		"uuid": "d005c13c-8fd0-470f-909f-e57e1e82332e",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "ce30abdb-18c6-47aa-b093-cc7d82aecc65",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "99aacf94-1c6b-439c-855b-6f738901afff",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "bc:cobble"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "bc:cobble_compressed"
+			}
+		],
+		"result": {
+			"item": "minecraft:cobblestone",
+			"count": 9
+		}
+	}
+}

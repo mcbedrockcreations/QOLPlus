@@ -1,0 +1,38 @@
+{
+	"num_mip_levels": 4,
+	"padding": 8,
+	"resource_pack_name": "bridgeRP",
+	"texture_name": "atlas.terrain",
+	"texture_data": {
+		"egg_block": {
+			"textures": "textures/blocks/egg_block"
+		},
+		"crate": {
+			"textures": "textures/blocks/crate"
+		},
+		"blueprint_table": {
+			"textures": "textures/blocks/blueprint_table"
+		},
+		"decayed_workbench": {
+			"textures": "textures/blocks/decayed_workbench"
+		},
+		"gardening_table": {
+			"textures": "textures/blocks/gardening_table"
+		},
+		"hunting_post": {
+			"textures": "textures/blocks/hunting_post"
+		},
+		"mining_bench": {
+			"textures": "textures/blocks/mining_bench"
+		},
+		"oceanography_table": {
+			"textures": "textures/blocks/oceanography_table"
+		},
+		"purpur_altar": {
+			"textures": "textures/blocks/purpur_altar"
+		},
+		"woodworking_table": {
+			"textures": "textures/blocks/woodworking_table"
+		}
+	}
+}

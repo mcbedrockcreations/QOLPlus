@@ -1,0 +1,47 @@
+{
+	"format_version": [
+		1,
+		1,
+		0
+	],
+	"bc:egg_block": {
+		"textures": "egg_block",
+		"sound": "stone"
+	},
+	"bc:crate": {
+		"textures": "crate",
+		"sound": "wood"
+	},
+	"bc:blueprint_table": {
+		"textures": "blueprint_table",
+		"sound": "wood"
+	},
+	"bc:decayed_workbench": {
+		"textures": "decayed_workbench",
+		"sound": "wood"
+	},
+	"bc:gardening_table": {
+		"textures": "gardening_table",
+		"sound": "wood"
+	},
+	"bc:hunting_post": {
+		"textures": "hunting_post",
+		"sound": "wood"
+	},
+	"bc:mining_bench": {
+		"textures": "mining_bench",
+		"sound": "stone"
+	},
+	"bc:oceanography_table": {
+		"textures": "oceanography_table",
+		"sound": "wood"
+	},
+	"bc:purpur_altar": {
+		"textures": "purpur_altar",
+		"sound": "stone"
+	},
+	"bc:woodworking_table": {
+		"textures": "woodworking_table",
+		"sound": "wood"
+	}
+}

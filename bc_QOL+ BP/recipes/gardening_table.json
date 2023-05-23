@@ -1,0 +1,27 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "bc:gardening_table"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"11",
+			"##",
+			"##"
+		],
+		"key": {
+			"1": {
+				"item": "minecraft:flower_pot"
+			},
+			"#": {
+				"tag": "minecraft:planks"
+			}
+		},
+		"result": {
+			"item": "bc:gardening_table"
+		}
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "minecraft:golden_leggings"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"###",
+			"#1#",
+			"# #"
+		],
+		"key": {
+			"1": {
+				"item": "minecraft:leather_leggings"
+			},
+			"#": {
+				"item": "minecraft:gold_ingot"
+			}
+		},
+		"result": {
+			"item": "minecraft:golden_leggings"
+		}
+	}
+}

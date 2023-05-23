@@ -1,0 +1,18 @@
+{
+	"resource_pack_name": "bridgeRP",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"cobble_compressed": {
+			"textures": "textures/items/cobble_compressed"
+		},
+		"deepslate_compressed": {
+			"textures": "textures/items/deepslate_compressed"
+		},
+		"dirt_compressed": {
+			"textures": "textures/items/dirt_compressed"
+		},
+		"gravel_compressed": {
+			"textures": "textures/items/gravel_compressed"
+		}
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "bc:purpur_altar"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"11",
+			"##",
+			"##"
+		],
+		"key": {
+			"1": {
+				"item": "minecraft:purpur_block"
+			},
+			"#": {
+				"item": "minecraft:end_stone"
+			}
+		},
+		"result": {
+			"item": "bc:purpur_altar"
+		}
+	}
+}

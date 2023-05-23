@@ -1,0 +1,30 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "bc:oceanography_table"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"1",
+			"2",
+			"#"
+		],
+		"key": {
+			"1": {
+				"item": "minecraft:paper"
+			},
+			"2": {
+				"item": "minecraft:string"
+			},
+			"#": {
+				"item": "minecraft:barrel"
+			}
+		},
+		"result": {
+			"item": "bc:oceanography_table"
+		}
+	}
+}

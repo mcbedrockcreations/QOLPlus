@@ -1,0 +1,30 @@
+{
+	"format_version": "1.19.40",
+	"minecraft:block": {
+		"description": {
+			"identifier": "bc:decayed_workbench",
+			"menu_category": {
+				"category": "items",
+				"group": "itemGroup.name.Items"
+			}
+		},
+		"components": {
+			"minecraft:geometry": "geometry.workbench",
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "decayed_workbench",
+					"render_method": "opaque"
+				}
+			},
+			"minecraft:destructible_by_mining": {
+				"seconds_to_destroy": 1
+			},
+			"minecraft:map_color": "#6D2B15",
+			"minecraft:destructible_by_explosion": {
+				"explosion_resistance": 3
+			},
+			"minecraft:loot": "loot_tables/blocks/decayed_workbench.json",
+			"tag:wood": {}
+		}
+	}
+}

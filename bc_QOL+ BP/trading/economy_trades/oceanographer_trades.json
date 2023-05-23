@@ -1,0 +1,158 @@
+{
+    "tiers": [
+        {
+            "num_to_select": 6,
+            "trades": [
+                {
+                    "wants": [
+                        {
+                            "item": "minecraft:prismarine:0",
+                            "quantity": 14
+                        }
+                    ],
+                    "gives": [
+                        {
+                            "item": "minecraft:emerald",
+                            "quantity": 1
+                        }
+                    ],
+                    "max_uses": 8
+                },
+                {
+                    "wants": [
+                        {
+                            "item": "minecraft:emerald",
+                            "quantity": 2
+                        }
+                    ],
+                    "gives": [
+                        {
+                            "item": "minecraft:sea_lantern",
+                            "quantity": 4
+                        }
+                    ],
+                    "max_uses": 5
+                },
+                {
+                    "wants": [
+                        {
+                            "item": "minecraft:prismarine:2",
+                            "quantity": 14
+                        }
+                    ],
+                    "gives": [
+                        {
+                            "item": "minecraft:emerald",
+                            "quantity": 1
+                        }
+                    ],
+                    "max_uses": 8
+                },
+                {
+                    "wants": [
+                        {
+                            "item": "minecraft:emerald",
+                            "quantity": 4
+                        }
+                    ],
+                    "gives": [
+                        {
+                            "item": "minecraft:sponge:0",
+                            "quantity": 2
+                        }
+                    ],
+                    "max_uses": 5
+                },
+                {
+                    "wants": [
+                        {
+                            "item": "minecraft:prismarine:1",
+                            "quantity": 12
+                        }
+                    ],
+                    "gives": [
+                        {
+                            "item": "minecraft:emerald",
+                            "quantity": 1
+                        }
+                    ],
+                    "max_uses": 8
+                },
+                {
+                    "wants": [
+                        {
+                            "item": "minecraft:emerald",
+                            "quantity": 13
+                        }
+                    ],
+                    "gives": [
+                        {
+                            "item": "minecraft:map",
+                            "functions": [
+                                {
+                                    "function": "exploration_map",
+                                    "destination": "buriedtreasure"
+                                }
+                            ]
+                        }
+                    ],
+                    "max_uses": 1
+                },
+                {
+                    "wants": [
+                        {
+                            "item": "minecraft:emerald",
+                            "quantity": 3
+                        }
+                    ],
+                    "gives": [
+                        {
+                            "item": "minecraft:nautilus_shell",
+                            "quantity": 1
+                        }
+                    ],
+                    "max_uses": 12
+                },
+                {
+                    "wants": [
+                        {
+                            "item": "minecraft:emerald",
+                            "quantity": 8
+                        }
+                    ],
+                    "gives": [
+                        {
+                            "item": "minecraft:heart_of_the_sea",
+                            "quantity": 1
+                        }
+                    ],
+                    "max_uses": 1
+                },
+                {
+                    "wants": [
+                        {
+                            "item": "minecraft:emerald",
+                            "quantity": 18
+                        }
+                    ],
+                    "gives": [
+                        {
+                            "item": "minecraft:trident",
+                            "functions": [
+                                {
+                                    "function": "enchant_with_levels",
+                                    "treasure": false,
+                                    "levels": {
+                                        "min": 5,
+                                        "max": 19
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "max_uses": 1
+                }
+            ]
+        }
+    ]
+}
