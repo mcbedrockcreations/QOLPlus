@@ -8,31 +8,31 @@
 			19,
 			50
 		],
-		"uuid": "99aacf94-1c6b-439c-855b-6f738901afff",
+		"uuid": "b4f4b5f4-0ab3-4dc5-b1ac-45b0dde2d733",
 		"version": [
 			1,
-			0,
-			0
+			1,
+			10
 		]
 	},
 	"modules": [
 		{
 			"type": "data",
-			"uuid": "704398c1-8fbd-4148-b4bf-8f968311198b",
+			"uuid": "ed252451-7188-45ff-ae85-30a18ffb9f9b",
 			"version": [
 				1,
-				0,
-				0
+				1,
+				10
 			]
 		}
 	],
 	"dependencies": [
 		{
-			"uuid": "d005c13c-8fd0-470f-909f-e57e1e82332e",
+			"uuid": "417ce1be-c293-4bf7-bf6f-41239b8d9401",
 			"version": [
 				1,
-				0,
-				0
+				1,
+				10
 			]
 		}
 	]
