@@ -1,187 +1,191 @@
 {
     "tiers": [
         {
-            "num_to_select": 7,
-            "trades": [
+            "groups": [
                 {
-                    "wants": [
+                    "num_to_select": 7,
+                    "trades": [
                         {
-                            "item": "minecraft:redstone",
-                            "quantity": 20
-                        }
-                    ],
-                    "gives": [
+                            "wants": [
+                                {
+                                    "item": "minecraft:redstone",
+                                    "quantity": 20
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 8
+                        },
                         {
-                            "item": "minecraft:emerald",
-                            "quantity": 1
-                        }
-                    ],
-                    "max_uses": 8
-                },
-                {
-                    "wants": [
+                            "wants": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 4
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:repeater",
+                                    "quantity": 3
+                                }
+                            ],
+                            "max_uses": 5
+                        },
                         {
-                            "item": "minecraft:emerald",
-                            "quantity": 4
-                        }
-                    ],
-                    "gives": [
+                            "wants": [
+                                {
+                                    "item": "minecraft:redstone_torch",
+                                    "quantity": 20
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 5
+                        },
                         {
-                            "item": "minecraft:repeater",
-                            "quantity": 3
-                        }
-                    ],
-                    "max_uses": 5
-                },
-                {
-                    "wants": [
+                            "wants": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 3
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:dropper",
+                                    "quantity": 3
+                                }
+                            ],
+                            "max_uses": 5
+                        },
                         {
-                            "item": "minecraft:redstone_torch",
-                            "quantity": 20
-                        }
-                    ],
-                    "gives": [
+                            "wants": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 4
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:dispenser",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 5
+                        },
                         {
-                            "item": "minecraft:emerald",
-                            "quantity": 1
-                        }
-                    ],
-                    "max_uses": 5
-                },
-                {
-                    "wants": [
+                            "wants": [
+                                {
+                                    "item": "minecraft:redstone_lamp",
+                                    "quantity": 4
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 8
+                        },
                         {
-                            "item": "minecraft:emerald",
-                            "quantity": 3
-                        }
-                    ],
-                    "gives": [
+                            "wants": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 4
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:observer",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 5
+                        },
                         {
-                            "item": "minecraft:dropper",
-                            "quantity": 3
-                        }
-                    ],
-                    "max_uses": 5
-                },
-                {
-                    "wants": [
+                            "wants": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 5
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:comparator",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 5
+                        },
                         {
-                            "item": "minecraft:emerald",
-                            "quantity": 4
-                        }
-                    ],
-                    "gives": [
+                            "wants": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 5
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:piston",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 5
+                        },
                         {
-                            "item": "minecraft:dispenser",
-                            "quantity": 1
-                        }
-                    ],
-                    "max_uses": 5
-                },
-                {
-                    "wants": [
+                            "wants": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 6
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:sticky_piston",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 5
+                        },
                         {
-                            "item": "minecraft:redstone_lamp",
-                            "quantity": 4
-                        }
-                    ],
-                    "gives": [
+                            "wants": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 5
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:daylight_detector",
+                                    "quantity": 2
+                                }
+                            ],
+                            "max_uses": 5
+                        },
                         {
-                            "item": "minecraft:emerald",
-                            "quantity": 1
+                            "wants": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 7
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:hopper",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 5
                         }
-                    ],
-                    "max_uses": 8
-                },
-                {
-                    "wants": [
-                        {
-                            "item": "minecraft:emerald",
-                            "quantity": 4
-                        }
-                    ],
-                    "gives": [
-                        {
-                            "item": "minecraft:observer",
-                            "quantity": 1
-                        }
-                    ],
-                    "max_uses": 5
-                },
-                {
-                    "wants": [
-                        {
-                            "item": "minecraft:emerald",
-                            "quantity": 5
-                        }
-                    ],
-                    "gives": [
-                        {
-                            "item": "minecraft:comparator",
-                            "quantity": 1
-                        }
-                    ],
-                    "max_uses": 5
-                },
-                {
-                    "wants": [
-                        {
-                            "item": "minecraft:emerald",
-                            "quantity": 5
-                        }
-                    ],
-                    "gives": [
-                        {
-                            "item": "minecraft:piston",
-                            "quantity": 1
-                        }
-                    ],
-                    "max_uses": 5
-                },
-                {
-                    "wants": [
-                        {
-                            "item": "minecraft:emerald",
-                            "quantity": 6
-                        }
-                    ],
-                    "gives": [
-                        {
-                            "item": "minecraft:sticky_piston",
-                            "quantity": 1
-                        }
-                    ],
-                    "max_uses": 5
-                },
-                {
-                    "wants": [
-                        {
-                            "item": "minecraft:emerald",
-                            "quantity": 5
-                        }
-                    ],
-                    "gives": [
-                        {
-                            "item": "minecraft:daylight_detector",
-                            "quantity": 2
-                        }
-                    ],
-                    "max_uses": 5
-                },
-                {
-                    "wants": [
-                        {
-                            "item": "minecraft:emerald",
-                            "quantity": 7
-                        }
-                    ],
-                    "gives": [
-                        {
-                            "item": "minecraft:hopper",
-                            "quantity": 1
-                        }
-                    ],
-                    "max_uses": 5
+                    ]
                 }
             ]
         }

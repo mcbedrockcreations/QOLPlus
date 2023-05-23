@@ -1,111 +1,115 @@
 {
     "tiers": [
         {
-            "num_to_select": 5,
-            "trades": [
+            "groups": [
                 {
-                    "wants": [
+                    "num_to_select": 5,
+                    "trades": [
                         {
-                            "item": "minecraft:basalt",
-                            "quantity": 24
-                        }
-                    ],
-                    "gives": [
+                            "wants": [
+                                {
+                                    "item": "minecraft:basalt",
+                                    "quantity": 24
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 8
+                        },
                         {
-                            "item": "minecraft:emerald",
-                            "quantity": 1
-                        }
-                    ],
-                    "max_uses": 8
-                },
-                {
-                    "wants": [
+                            "wants": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 1
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:nether_brick",
+                                    "quantity": 10
+                                }
+                            ],
+                            "max_uses": 5
+                        },
                         {
-                            "item": "minecraft:emerald",
-                            "quantity": 1
-                        }
-                    ],
-                    "gives": [
+                            "wants": [
+                                {
+                                    "item": "minecraft:blackstone",
+                                    "quantity": 24
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 8
+                        },
                         {
-                            "item": "minecraft:nether_brick",
-                            "quantity": 10
-                        }
-                    ],
-                    "max_uses": 5
-                },
-                {
-                    "wants": [
+                            "wants": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 4
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:quartz_ore",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 12
+                        },
                         {
-                            "item": "minecraft:blackstone",
-                            "quantity": 24
-                        }
-                    ],
-                    "gives": [
+                            "wants": [
+                                {
+                                    "item": "minecraft:obsidian",
+                                    "quantity": 4
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 8
+                        },
                         {
-                            "item": "minecraft:emerald",
-                            "quantity": 1
-                        }
-                    ],
-                    "max_uses": 8
-                },
-                {
-                    "wants": [
+                            "wants": [
+                                {
+                                    "item": "minecraft:gold_ingot",
+                                    "quantity": 4
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 8
+                        },
                         {
-                            "item": "minecraft:emerald",
-                            "quantity": 4
+                            "wants": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 15
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:music_disc_pigstep"
+                                }
+                            ],
+                            "max_uses": 1
                         }
-                    ],
-                    "gives": [
-                        {
-                            "item": "minecraft:quartz_ore",
-                            "quantity": 1
-                        }
-                    ],
-                    "max_uses": 12
-                },
-                {
-                    "wants": [
-                        {
-                            "item": "minecraft:obsidian",
-                            "quantity": 4
-                        }
-                    ],
-                    "gives": [
-                        {
-                            "item": "minecraft:emerald",
-                            "quantity": 1
-                        }
-                    ],
-                    "max_uses": 8
-                },
-                {
-                    "wants": [
-                        {
-                            "item": "minecraft:gold_ingot",
-                            "quantity": 4
-                        }
-                    ],
-                    "gives": [
-                        {
-                            "item": "minecraft:emerald",
-                            "quantity": 1
-                        }
-                    ],
-                    "max_uses": 8
-                },
-                {
-                    "wants": [
-                        {
-                            "item": "minecraft:emerald",
-                            "quantity": 15
-                        }
-                    ],
-                    "gives": [
-                        {
-                            "item": "minecraft:music_disc_pigstep"
-                        }
-                    ],
-                    "max_uses": 1
+                    ]
                 }
             ]
         }

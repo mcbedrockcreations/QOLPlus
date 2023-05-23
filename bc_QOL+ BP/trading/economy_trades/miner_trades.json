@@ -1,139 +1,143 @@
 {
     "tiers": [
         {
-            "num_to_select": 5,
-            "trades": [
+            "groups": [
                 {
-                    "wants": [
+                    "num_to_select": 5,
+                    "trades": [
                         {
-                            "item": "minecraft:deepslate",
-                            "quantity": 20
-                        }
-                    ],
-                    "gives": [
-                        {
-                            "item": "minecraft:emerald",
-                            "quantity": 1
-                        }
-                    ],
-                    "max_uses": 5
-                },
-                {
-                    "wants": [
-                        {
-                            "item": "minecraft:emerald",
-                            "quantity": 1
-                        }
-                    ],
-                    "gives": [
-                        {
-                            "item": "minecraft:calcite",
-                            "quantity": 15
-                        }
-                    ],
-                    "max_uses": 8
-                },
-                {
-                    "wants": [
-                        {
-                            "item": "minecraft:raw_copper",
-                            "quantity": 15
-                        }
-                    ],
-                    "gives": [
-                        {
-                            "item": "minecraft:emerald",
-                            "quantity": 1
-                        }
-                    ],
-                    "max_uses": 5
-                },
-                {
-                    "wants": [
-                        {
-                            "item": "minecraft:raw_iron",
-                            "quantity": 12
-                        }
-                    ],
-                    "gives": [
-                        {
-                            "item": "minecraft:emerald",
-                            "quantity": 1
-                        }
-                    ],
-                    "max_uses": 5
-                },
-                {
-                    "wants": [
-                        {
-                            "item": "minecraft:raw_gold",
-                            "quantity": 10
-                        }
-                    ],
-                    "gives": [
-                        {
-                            "item": "minecraft:emerald",
-                            "quantity": 1
-                        }
-                    ],
-                    "max_uses": 5
-                },
-                {
-                    "wants": [
-                        {
-                            "item": "minecraft:emerald",
-                            "quantity": 1
-                        }
-                    ],
-                    "gives": [
-                        {
-                            "item": "minecraft:amethyst_shard",
-                            "quantity": 2
-                        }
-                    ],
-                    "max_uses": 8
-                },
-                {
-                    "wants": [
-                        {
-                            "item": "minecraft:torch",
-                            "quantity": 50
-                        }
-                    ],
-                    "gives": [
-                        {
-                            "item": "minecraft:emerald",
-                            "quantity": 1
-                        }
-                    ],
-                    "max_uses": 5
-                },
-                {
-                    "wants": [
-                        {
-                            "item": "minecraft:emerald",
-                            "quantity": {
-                                "min": 17,
-                                "max": 31
-                            }
-                        }
-                    ],
-                    "gives": [
-                        {
-                            "item": "minecraft:diamond_pickaxe",
-                            "functions": [
+                            "wants": [
                                 {
-                                    "function": "enchant_with_levels",
-                                    "treasure": false,
-                                    "levels": {
-                                        "min": 5,
-                                        "max": 19
+                                    "item": "minecraft:deepslate",
+                                    "quantity": 20
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 5
+                        },
+                        {
+                            "wants": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 1
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:calcite",
+                                    "quantity": 15
+                                }
+                            ],
+                            "max_uses": 8
+                        },
+                        {
+                            "wants": [
+                                {
+                                    "item": "minecraft:raw_copper",
+                                    "quantity": 15
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 5
+                        },
+                        {
+                            "wants": [
+                                {
+                                    "item": "minecraft:raw_iron",
+                                    "quantity": 12
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 5
+                        },
+                        {
+                            "wants": [
+                                {
+                                    "item": "minecraft:raw_gold",
+                                    "quantity": 10
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 5
+                        },
+                        {
+                            "wants": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 1
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:amethyst_shard",
+                                    "quantity": 2
+                                }
+                            ],
+                            "max_uses": 8
+                        },
+                        {
+                            "wants": [
+                                {
+                                    "item": "minecraft:torch",
+                                    "quantity": 50
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 5
+                        },
+                        {
+                            "wants": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": {
+                                        "min": 17,
+                                        "max": 31
                                     }
                                 }
-                            ]
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:diamond_pickaxe",
+                                    "functions": [
+                                        {
+                                            "function": "enchant_with_levels",
+                                            "treasure": false,
+                                            "levels": {
+                                                "min": 5,
+                                                "max": 19
+                                            }
+                                        }
+                                    ]
+                                }
+                            ],
+                            "max_uses": 1
                         }
-                    ],
-                    "max_uses": 1
+                    ]
                 }
             ]
         }

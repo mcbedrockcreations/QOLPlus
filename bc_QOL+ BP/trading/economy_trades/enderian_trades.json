@@ -1,142 +1,146 @@
 {
     "tiers": [
         {
-            "num_to_select": 6,
-            "trades": [
+            "groups": [
                 {
-                    "wants": [
+                    "num_to_select": 6,
+                    "trades": [
                         {
-                            "item": "minecraft:end_stone",
-                            "quantity": 24
-                        }
-                    ],
-                    "gives": [
+                            "wants": [
+                                {
+                                    "item": "minecraft:end_stone",
+                                    "quantity": 24
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 5
+                        },
                         {
-                            "item": "minecraft:emerald",
-                            "quantity": 1
-                        }
-                    ],
-                    "max_uses": 5
-                },
-                {
-                    "wants": [
+                            "wants": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 4
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:end_rod",
+                                    "quantity": 3
+                                }
+                            ],
+                            "max_uses": 8
+                        },
                         {
-                            "item": "minecraft:emerald",
-                            "quantity": 4
-                        }
-                    ],
-                    "gives": [
+                            "wants": [
+                                {
+                                    "item": "minecraft:popped_chorus_fruit",
+                                    "quantity": 20
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 5
+                        },
                         {
-                            "item": "minecraft:end_rod",
-                            "quantity": 3
-                        }
-                    ],
-                    "max_uses": 8
-                },
-                {
-                    "wants": [
+                            "wants": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 5
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:phantom_membrane",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 8
+                        },
                         {
-                            "item": "minecraft:popped_chorus_fruit",
-                            "quantity": 20
-                        }
-                    ],
-                    "gives": [
+                            "wants": [
+                                {
+                                    "item": "minecraft:ender_pearl",
+                                    "quantity": 14
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 5
+                        },
                         {
-                            "item": "minecraft:emerald",
-                            "quantity": 1
-                        }
-                    ],
-                    "max_uses": 5
-                },
-                {
-                    "wants": [
+                            "wants": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 3
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:firework_rocket",
+                                    "quantity": 8
+                                }
+                            ],
+                            "max_uses": 8
+                        },
                         {
-                            "item": "minecraft:emerald",
-                            "quantity": 5
-                        }
-                    ],
-                    "gives": [
+                            "wants": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 6
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:dragon_breath",
+                                    "quantity": 2
+                                }
+                            ],
+                            "max_uses": 5
+                        },
                         {
-                            "item": "minecraft:phantom_membrane",
-                            "quantity": 1
-                        }
-                    ],
-                    "max_uses": 8
-                },
-                {
-                    "wants": [
+                            "wants": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 12
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:shulker_shell",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 8
+                        },
                         {
-                            "item": "minecraft:ender_pearl",
-                            "quantity": 14
+                            "wants": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 20
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:skull:5",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 1
                         }
-                    ],
-                    "gives": [
-                        {
-                            "item": "minecraft:emerald",
-                            "quantity": 1
-                        }
-                    ],
-                    "max_uses": 5
-                },
-                {
-                    "wants": [
-                        {
-                            "item": "minecraft:emerald",
-                            "quantity": 3
-                        }
-                    ],
-                    "gives": [
-                        {
-                            "item": "minecraft:firework_rocket",
-                            "quantity": 8
-                        }
-                    ],
-                    "max_uses": 8
-                },
-                {
-                    "wants": [
-                        {
-                            "item": "minecraft:emerald",
-                            "quantity": 6
-                        }
-                    ],
-                    "gives": [
-                        {
-                            "item": "minecraft:dragon_breath",
-                            "quantity": 2
-                        }
-                    ],
-                    "max_uses": 5
-                },
-                {
-                    "wants": [
-                        {
-                            "item": "minecraft:emerald",
-                            "quantity": 12
-                        }
-                    ],
-                    "gives": [
-                        {
-                            "item": "minecraft:shulker_shell",
-                            "quantity": 1
-                        }
-                    ],
-                    "max_uses": 8
-                },
-                {
-                    "wants": [
-                        {
-                            "item": "minecraft:emerald",
-                            "quantity": 20
-                        }
-                    ],
-                    "gives": [
-                        {
-                            "item": "minecraft:skull:5",
-                            "quantity": 1
-                        }
-                    ],
-                    "max_uses": 1
+                    ]
                 }
             ]
         }

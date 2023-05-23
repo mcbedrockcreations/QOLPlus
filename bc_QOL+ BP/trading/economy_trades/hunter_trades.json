@@ -1,142 +1,146 @@
 {
     "tiers": [
         {
-            "num_to_select": 6,
-            "trades": [
+            "groups": [
                 {
-                    "wants": [
+                    "num_to_select": 6,
+                    "trades": [
                         {
-                            "item": "minecraft:bone",
-                            "quantity": 32
-                        }
-                    ],
-                    "gives": [
+                            "wants": [
+                                {
+                                    "item": "minecraft:bone",
+                                    "quantity": 32
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 5
+                        },
                         {
-                            "item": "minecraft:emerald",
-                            "quantity": 1
-                        }
-                    ],
-                    "max_uses": 5
-                },
-                {
-                    "wants": [
+                            "wants": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 5
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:slime_ball",
+                                    "quantity": 2
+                                }
+                            ],
+                            "max_uses": 8
+                        },
                         {
-                            "item": "minecraft:emerald",
-                            "quantity": 5
-                        }
-                    ],
-                    "gives": [
+                            "wants": [
+                                {
+                                    "item": "minecraft:spider_eye",
+                                    "quantity": 24
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 5
+                        },
                         {
-                            "item": "minecraft:slime_ball",
-                            "quantity": 2
-                        }
-                    ],
-                    "max_uses": 8
-                },
-                {
-                    "wants": [
+                            "wants": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 5
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:fermented_spider_eye",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 8
+                        },
                         {
-                            "item": "minecraft:spider_eye",
-                            "quantity": 24
-                        }
-                    ],
-                    "gives": [
+                            "wants": [
+                                {
+                                    "item": "minecraft:gunpowder",
+                                    "quantity": 20
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 5
+                        },
                         {
-                            "item": "minecraft:emerald",
-                            "quantity": 1
-                        }
-                    ],
-                    "max_uses": 5
-                },
-                {
-                    "wants": [
+                            "wants": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 5
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:magma_cream",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 8
+                        },
                         {
-                            "item": "minecraft:emerald",
-                            "quantity": 5
-                        }
-                    ],
-                    "gives": [
+                            "wants": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 5
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:blaze_rod",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 8
+                        },
                         {
-                            "item": "minecraft:fermented_spider_eye",
-                            "quantity": 1
-                        }
-                    ],
-                    "max_uses": 8
-                },
-                {
-                    "wants": [
+                            "wants": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 8
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:ghast_tear",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 8
+                        },
                         {
-                            "item": "minecraft:gunpowder",
-                            "quantity": 20
+                            "wants": [
+                                {
+                                    "item": "minecraft:emerald",
+                                    "quantity": 8
+                                }
+                            ],
+                            "gives": [
+                                {
+                                    "item": "minecraft:rabbit_foot",
+                                    "quantity": 1
+                                }
+                            ],
+                            "max_uses": 8
                         }
-                    ],
-                    "gives": [
-                        {
-                            "item": "minecraft:emerald",
-                            "quantity": 1
-                        }
-                    ],
-                    "max_uses": 5
-                },
-                {
-                    "wants": [
-                        {
-                            "item": "minecraft:emerald",
-                            "quantity": 5
-                        }
-                    ],
-                    "gives": [
-                        {
-                            "item": "minecraft:magma_cream",
-                            "quantity": 1
-                        }
-                    ],
-                    "max_uses": 8
-                },
-                {
-                    "wants": [
-                        {
-                            "item": "minecraft:emerald",
-                            "quantity": 5
-                        }
-                    ],
-                    "gives": [
-                        {
-                            "item": "minecraft:blaze_rod",
-                            "quantity": 1
-                        }
-                    ],
-                    "max_uses": 8
-                },
-                {
-                    "wants": [
-                        {
-                            "item": "minecraft:emerald",
-                            "quantity": 8
-                        }
-                    ],
-                    "gives": [
-                        {
-                            "item": "minecraft:ghast_tear",
-                            "quantity": 1
-                        }
-                    ],
-                    "max_uses": 8
-                },
-                {
-                    "wants": [
-                        {
-                            "item": "minecraft:emerald",
-                            "quantity": 8
-                        }
-                    ],
-                    "gives": [
-                        {
-                            "item": "minecraft:rabbit_foot",
-                            "quantity": 1
-                        }
-                    ],
-                    "max_uses": 8
+                    ]
                 }
             ]
         }
